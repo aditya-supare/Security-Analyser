@@ -1,0 +1,5 @@
+streamlit
+openai
+firecrawl
+python-dotenv
+nltk
